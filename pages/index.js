@@ -24,9 +24,9 @@ export default function Home() {
         <h4>Why does the language in which we pray matter?</h4>
         <p>It is possible to pray to God in any language; Latin, specifically, is special for several reasons:</p>
         <ul>
-          <li>Latin is one of the languages of Calvary (Latin, Greek, Hebrew/Aramaic). It is special in the Mass because the Mass is the re-presentation of the Lord's sacrifice on Calvary.</li>
-          <li>Latin is especially hated by demons (a fact which is supported by the testimony of exorcists). [<a href="https://www.ncregister.com/blog/why-the-devil-hates-latin" target="_blank">Why the Devil Hates Latin</a>]</li>
-          <li>Latin is a symbol of the universiality of the Roman Catholic Church—we are united in one language when we pray in Latin. [&#8220;Particular law remaining in force, the use of the Latin language is to be preserved in the Latin rites.&#8221; <a href="https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html" target="_blank">Sacrosanctum Concilium</a>]</li>
+          <li>Latin is one of the languages of Calvary (Latin, Greek, Hebrew/Aramaic). It is special in the Mass because the Mass is the re-presentation of the Lord&#39;s sacrifice on Calvary.</li>
+          <li>Latin is especially hated by demons (a fact which is supported by the testimony of exorcists). [<a href="https://www.ncregister.com/blog/why-the-devil-hates-latin" rel="noreferrer" target="_blank">Why the Devil Hates Latin</a>]</li>
+          <li>Latin is a symbol of the universiality of the Roman Catholic Church—we are united in one language when we pray in Latin. [&#8220;Particular law remaining in force, the use of the Latin language is to be preserved in the Latin rites.&#8221; <a href="https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html" target="_blank" rel="noreferrer">Sacrosanctum Concilium</a>]</li>
         </ul>
         <h4>Which mysteries should I pray?</h4>
         <p>The Traditional schedule for the mysteries of the Rosary is the following:</p>
