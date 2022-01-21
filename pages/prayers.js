@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import { Navbar } from '../components/Navbar'
+import { Footer } from '../components/Footer'
 
 import style_config from '../styles/config.json'
 
@@ -48,6 +49,7 @@ export default function Prayers() {
         <p>[Oremus]</p>
         <p>Deus, cuius Unigenitus per vitam, mortem et resurrectionem suam nobis salutis aeternae praemia comparavit: concede, quaesumus; ut, haec mysteria sacratissimo beatae Mariae Virginis Rosario recolentes. et imitemur quod continent, et quod promittunt, assequamur. Per eundem Christum Dominum nostrum. Amen.</p>
       </main>
+      <Footer />
       <style jsx>
         {`
           main {
@@ -56,6 +58,16 @@ export default function Prayers() {
             display: block;
             margin: auto;
             padding: 28px;
+          }
+          h2 {
+            margin-bottom: 4px;
+          }
+          h3 {
+            margin: 4px 0px;
+          }
+          p {
+            line-height: 1.6;
+            margin-top: 4px;
           }
         `}
       </style>

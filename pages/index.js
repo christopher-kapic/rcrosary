@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import { Navbar } from '../components/Navbar'
+import { Footer } from '../components/Footer'
 
 import style_config from '../styles/config.json'
 
@@ -35,6 +36,7 @@ export default function Home() {
         <h2 id="schedule">Schedule</h2>
         <p>I am planning on livestreaming Rosaries in Latin. When I begin, I will post a schedule here so that it is possible to see when I will be praying and when you can join. If you are interested in leading a Rosary in Latin, <a href="mailto:christopher@kapic.io">email me</a>. I am hoping to have groups of faithful praying the Rosary in Latin all around the world, and especially in my home country of the United States of America.</p>
       </main>
+      <Footer />
       <style jsx>
         {`
           main {
