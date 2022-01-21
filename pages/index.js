@@ -8,7 +8,9 @@ export default function Home() {
   return (
     <>
       <Head>
-
+      <script defer data-domain="rcrosary.org" src="https://plausible.io/js/plausible.js"></script>
+      <title>Latin Rosary</title>
+      <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
       <Navbar />
       <main>
