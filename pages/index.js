@@ -14,6 +14,11 @@ export default function Home() {
       <main>
         <h2>About</h2>
         <p>RosaryRC&#39;s purpose is to encourage the laity to pray the Rosary in Latin. We have seen bishops target priests who say the Traditional Latin Mass. Please pray for the preservation of the Traditional Latin Mass, and teach others about it, in part by teaching them the universal language of Holy Mother Church—Latin.</p>
+        <p><em>The laity have not sworn a solemn vow of obedience; if you are a layperson, take the initiative to pray in Latin and demonstrate that the Traditions of the faith are important to you, including the language</em> and <em>the Traditional Mass.</em></p>
+
+        <p>From Fulton Sheen:</p>
+        <blockquote cite='https://www.churchpop.com/2019/09/07/who-will-save-our-future-church-abp-fulton-sheen-nails-it-with-this-one-powerful-quote/'>Who&#39;s going to save our Church? It&#39;s not our bishops, it&#39;s not our priests and it is not the religious. It is up to you, the people. You have the minds, the eyes and the ears to save the Church. Your mission is to see that the priests act like priests, your bishops act like bishops, and the religious act like religious.</blockquote>
+
         <h4>Why does the language in which we pray matter?</h4>
         <p>It is possible to pray to God in any language; Latin, specifically, is special for several reasons:</p>
         <ul>
