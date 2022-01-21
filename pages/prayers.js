@@ -15,11 +15,11 @@ export default function Prayers() {
 
         <h2>Symbolum Apostolicum</h2>
         <h3>The Creed</h3>
-        <p>Credo in Deum, Patrem omnipotentem, creatorem caeli et terrae. Et in Iesum Christum, Filium eius unicum, Dominum nostrum, qui conceptus est de Spiritu Sancto, natus ex Maria Virgine, passus sub Pontio Pilato, crucifixus, mortuus et sepultus. Descendit ad inferos, tertia die resurrexit a mortuis. Ascendit ad caelos, sedet ad dextram Dei Patris omnipotentis. Inde venturus est iudicare vivos et mortuos. * Credo in Spiritum Sanctum, sanctam Ecclesiam catholicam, sanctorum communionem, remissionem peccatorum, carnis resurrectionem, vitam aeternam. Amen.</p>
+        <p>Credo in Deum, Patrem omnipotentem, creatorem caeli et terrae. Et in Iesum Christum, Filium eius unicum, Dominum nostrum, qui conceptus est de Spiritu Sancto, natus ex Maria Virgine, passus sub Pontio Pilato, crucifixus, mortuus et sepultus. Descendit ad inferos, tertia die resurrexit a mortuis. Ascendit ad caelos, sedet ad dextram Dei Patris omnipotentis. Inde venturus est iudicare vivos et mortuos. <em>Credo in Spiritum Sanctum, sanctam Ecclesiam catholicam, sanctorum communionem, remissionem peccatorum, carnis resurrectionem, vitam aeternam. Amen.</em></p>
 
         <h2>Pater Noster</h2>
         <h3>Our Father</h3>
-        <p>Pater noster, qui es in caelis: Sanctificetur nomen tuum: Adveniat regnum tuum: Fiat voluntas tua, sicut in caelo, et in terra. <em>Panem nostrum quotidianum da nobis hodie: Et dimitte nobis debita nostra, sicut et dimittimus debitoribus nostris. Et ne nos inducas in tentationem, sed libera nos a malo. Amen.</em></p>
+        <p>Pater noster, qui es in caelis: Sanctificetur nomen tuum: Adveniat regnum tuum: Fiat voluntas tua, sicut in caelo, et in terra. <em>Panem nostrum quotidianum da nobis hodie: Et dimitte nobis debita nostra, sicut et nos dimittimus debitoribus nostris. Et ne nos inducas in tentationem, sed libera nos a malo. Amen.</em></p>
 
         <h2>Ave Maria</h2>
         <h3>Hail Mary</h3>
