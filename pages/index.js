@@ -15,11 +15,12 @@ export default function Home() {
       <Navbar />
       <main>
         <h2>About</h2>
-        <p>RosaryRC&#39;s purpose is to encourage the laity to pray the Rosary in Latin. We have seen bishops target priests who say the Traditional Latin Mass. Please pray for the preservation of the Traditional Latin Mass, and teach others about it, in part by teaching them the universal language of Holy Mother Church—Latin.</p>
-        <p><em>The laity have not sworn a solemn vow of obedience; if you are a layperson, take the initiative to pray in Latin and demonstrate that the Traditions of the faith are important to you, including the language</em> and <em>the Traditional Mass.</em></p>
+        <p>RCRosary&#39;s (Roman Catholic Rosary) purpose is to encourage the laity to pray the Rosary in Latin. We have seen bishops target priests who say the Traditional Latin Mass. Please pray for the preservation of the Traditional Latin Mass, and teach others about it, in part by teaching them the sacred and universal language of Holy Mother Church—Latin.</p>
 
         <p>From Fulton Sheen:</p>
         <blockquote cite='https://www.churchpop.com/2019/09/07/who-will-save-our-future-church-abp-fulton-sheen-nails-it-with-this-one-powerful-quote/'>Who&#39;s going to save our Church? It&#39;s not our bishops, it&#39;s not our priests and it is not the religious. It is up to you, the people. You have the minds, the eyes and the ears to save the Church. Your mission is to see that the priests act like priests, your bishops act like bishops, and the religious act like religious.</blockquote>
+
+        <p>Given what Fulton Sheen clearly articulated, we—the laity—should preserve the Traditions of the faith in how we act, with prayer, fasting, and publicly defending those Traditions. <em>Because laity have not sworn a solemn vow of obedience, we have all the more reason to take the initiative to pray in Latin and demonstrate that the Traditions of the faith are important to us, including the language</em> and <em>the Traditional Mass.</em></p>
 
         <h4>Why does the language in which we pray matter?</h4>
         <p>It is possible to pray to God in any language; Latin, specifically, is special for several reasons:</p>
@@ -39,7 +40,7 @@ export default function Home() {
           <li>Friday: Sorrowful</li>
           <li>Saturday: Glorious</li>
         </ul>
-        <p>There is some debate about whether or not the schedule should be changed to accomodate the Luminous mysteries, which were promulgated under Pope Saint John Paul II. RosaryRC encourages the faithful to pray according to the Traditional schedule because Mary requested St. Dominic to propagate her <em>Psalter</em>, and the Traditional mysteries make 150 Ave Marias, as there are 150 Psalms in the Psalter (the Rosary evolved from the tradition of praying the Psalms).</p>
+        <p>There is some debate about whether or not the schedule should be changed to accomodate the Luminous mysteries, which were promulgated under Pope Saint John Paul II. RCRosary encourages the faithful to pray according to the Traditional schedule because Mary requested St. Dominic to propagate her <em>Psalter</em>, and the Traditional mysteries make 150 Ave Marias, as there are 150 Psalms in the Psalter (the Rosary evolved from the tradition of praying the Psalms).</p>
         <h2 id="schedule">Schedule</h2>
         <p>I am planning on livestreaming Rosaries in Latin. When I begin, I will post a schedule here so that it is possible to see when I will be praying and when you can join. If you are interested in leading a Rosary in Latin, <a href="mailto:christopher@kapic.io">email me</a>. I am hoping to have groups of faithful praying the Rosary in Latin all around the world, and especially in my home country of the United States of America.</p>
       </main>
