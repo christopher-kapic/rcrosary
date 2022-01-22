@@ -24,10 +24,10 @@ export const Navbar = () => {
           }
         </div>
         <div className={"navbar " + (isOpen ? "vispos" : "")} onClick={() => setIsOpen(false)}>
-          <Link href="/#">
+          <Link href="/">
             <a className="navbarTitle" style={{paddingRight: "8vw"}}>{contact_config.title}</a>
           </Link>
-          <Link href="/#">
+          <Link href="/">
             <a className="homeDisp">Home</a>
           </Link>
           <Link href="/#schedule">
